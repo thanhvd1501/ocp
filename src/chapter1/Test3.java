@@ -5,7 +5,8 @@ public class Test3 {
   int a = 1;
   int b = 1;
   int d = 1;
-  /dddddddddd
+  //dddddddddd
   int c = 1;
+  int test = 1;
 }
 
