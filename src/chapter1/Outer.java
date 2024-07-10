@@ -18,6 +18,9 @@ public class Outer {
         Inner inner = new Outer.Inner(); // way 1 :  create the inner class
         Inner inner1 = outer.new Inner(); // way 2 :  create the inner class
         System.out.println(inner.name);
+        System.out.println(inner.name);
+        System.out.println(inner.name);
+        System.out.println(inner.name);
         inner.display(inner.name);
         Integer
     }
