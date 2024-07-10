@@ -8,5 +8,8 @@ public class Test3 {
   //dddddddddd
   int c = 1;
   int test = 1;
+  int c = 1;
+  int c = 1;
+  int c = 1;
 }
 
